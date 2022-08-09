@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+ font-family: arial, sans-serif;
+ border: 1.5px solid black;
+ }
+ </style>
+ </head>
+ <body>
+ <h1> This is a project budget </h1>
+ <table style="width:100%">
+  <tr>
+   <th> phase </th>
+   <th> Survey </th>
+   <th> Data Collection </th>
+   <th> transportation </th>
+   <th> TA DA </th>
+   <th> Logistic </th>
+  </tr>
+  <tr>
+   <th> p1 </th>
+   <th> 5000 BDT </th>
+   <th> 4000 BDT </th>
+   <th> 7000 BDT </th>
+   <th> 3000 BDT </th>
+   <th> 4000 BDT </th>
+  </tr>
+  <tr>
+   <th> p2 </th>
+   <th> 6000 BDT </th>
+   <th> 7000 BDT </th>
+   <th> 10000 BDT </th>
+   <th> 12000 BDT </th>
+   <th> 6500 BDT </th>
+  </tr>
+  <tr>
+   <th> p3 </th>
+   <th> 5600 BDT </th>
+   <th> 12000 BDT </th>
+   <th> 11000 BDT </th>
+   <th> 17000 BDT </th>
+   <th> 900 BDT </th>
+  </tr>
+ </table>
+ <p> This data is updated according to the last web research, local stakeholders and experienced person. </p>
+ </body>
+ </html>

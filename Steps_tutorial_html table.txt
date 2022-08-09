@@ -1,0 +1,28 @@
+Today we are going to learn how can we make table with HTML
+1: first open notepad++ (If u have installed it, otherwise need to install it first the installation process is very simple)
+2: Here we will write our code 
+3: Lets learn some basic html tag for making tables which can be easily learn through online ( W3School) 
+3.1: HTML Tag for making table
+<table> which define table 
+<th> which defines a header in a table 
+<tr> which defines or indicate row inside a table 
+<td> it indicates cell data in a table
+There are also other tags as example <col>, <caption>, <colgroup>
+
+4:Now lets write our code 
+[NB ] You can zoom in and zoom out by pressing ctr+scroll buttion
+5: these three lines are common in any html code 
+<!DOCTYPE html> 
+<html> 
+<head> 
+
+6: Now we will define the desing of our desired table as like text front size etc 
+7: One thing I forgot to add save your file while working after sometime otherwise your code will be lost 
+here i am saving it in text format. after completing the code we need to save it .html format
+8: After completeing the table style we will move toward the body of table ( which means the data inside table)
+9: Here we will end our table informaton by  </table> tag
+10: we can add short notes by using <p> ..... </p> tag
+11: Now we will close our body and html file by using </body> and </html> tag
+12: Now save the file in .html format and lets see what we have created
+13: Here we got the table
+14: Thanks for wathcing
