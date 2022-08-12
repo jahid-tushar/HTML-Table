@@ -1,0 +1,79 @@
+<DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+ font-family: arial, times new roman;
+ border: 2.5px solid
+ }
+</style> 
+</head>
+ <body>
+ <h1> Land Use Land Cover Data </h1>
+ <table style="width:100%">
+  <tr>
+   <th> Land Cover Class </th>
+   <th> Training Sample Count </th>
+   <th> Year 1970 </th>
+   <th> Year 1980 </th>
+   <th> Year 1990 </th>
+   <th> Year 2000 </th>
+   <th> Year 2010 </th>
+   <th> Year 2020 </th>
+  </tr>
+  <tr>
+   <th> Agricultural Land </th>
+   <th> 40+50+55+60+75+88 </th>
+   <th> 80 SQKm </th>
+   <th> 70 SQKm </th>
+   <th> 60 SQKm </th>
+   <th> 50 SQKm </th>
+   <th> 40 SQKm </th>
+   <th> 30 SQKm </th>
+  </tr>
+  <tr>
+   <th> Bare Land </th>
+   <th> 20+60+75+50+95+55 </th>
+   <th> 95 SQKm </th>
+   <th> 70 SQKm </th>
+   <th> 60 SQKm </th>
+   <th> 30 SQKm </th>
+   <th> 20 SQKm </th>
+   <th> 15 SQKm </th>
+  </tr>
+  <tr>
+   <th> Settlement </th>
+   <th> 20+50+75+80+95+105 </th>
+   <th> 20 SQKm </th>
+   <th> 30 SQKm </th>
+   <th> 45 SQKm </th>
+   <th> 60 SQKm </th>
+   <th> 65 SQKm </th>
+   <th> 80 SQKm </th>
+  </tr>
+
+  <tr>
+   <th> Vegetation </th>
+   <th> 18+21+25+60+32+40 </th>
+   <th> 20 SQKm </th>
+   <th> 30 SQKm </th>
+   <th> 45 SQKm </th>
+   <th> 60 SQKm </th>
+   <th> 65 SQKm </th>
+   <th> 80 SQKm </th>
+  </tr>
+  <tr>
+   <th> Waterbody </th>
+   <th> 20+30+25+28+35+42 </th>
+   <th> 20 SQKm </th>
+   <th> 30 SQKm </th>
+   <th> 45 SQKm </th>
+   <th> 60 SQKm </th>
+   <th> 65 SQKm </th>
+   <th> 80 SQKm </th>
+  </tr>
+ </table>
+ <p> This is a sample Land use Land Cover Data for Dhaka City Corporation Area  . </p>
+ </body>
+ </html>
+ 
